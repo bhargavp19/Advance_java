@@ -1,0 +1,9 @@
+com\register\service\RegServiceImp.class
+com\register\dao\RegDaoImp.class
+com\register\HibernateConfiguration.class
+com\register\model\RegVO.class
+com\register\Application.class
+com\register\model\LoginVO.class
+com\register\dao\RegDao.class
+com\register\service\RegService.class
+com\register\controller\RegController.class
